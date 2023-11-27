@@ -1,0 +1,44 @@
+number1 = int(input('Enter integer number1: '))
+
+number2 = int(input('Enter integer number2: '))
+
+number3 = int(input('Enter integer number3: '))
+
+number4 = int(input('Enter integer number4: '))
+
+number5 = int(input('Enter integer number5: '))
+
+number6 = int(input('Enter integer number6: '))
+
+number7 = int(input('Enter integer number7: '))
+
+number8 = int(input('Enter integer number8: '))
+
+number9 = int(input('Enter integer number9: '))
+
+number10 = int(input('Enter integer number10: '))
+
+number11 = int(input('Enter integer number11: '))
+
+number12 = int(input('Enter integer number12: '))
+
+number13 = int(input('Enter integer number13: '))
+
+number14 = int(input('Enter integer number14: '))
+
+number15 = int(input('Enter integer number15: '))
+
+number16 = int(input('Enter integer number16: '))
+
+number17 = int(input('Enter integer number17: '))
+
+number18 = int(input('Enter integer number18: '))
+
+number19 = int(input('Enter integer number19: '))
+
+number20 = int(input('Enter integer number20: '))
+
+total = 1
+for number in range (20):
+total += number
+	print(total)
